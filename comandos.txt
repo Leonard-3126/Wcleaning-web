@@ -1,0 +1,7 @@
+# Reemplaza USUARIO con tu nombre de usuario de GitHub
+git init
+git add .
+git commit -m "Versión inicial del sitio web"
+git branch -M main
+git remote add origin https://github.com/USUARIO/wcleaningWEB.git
+git push -u origin main
