@@ -1,0 +1,10 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas y archivos de desarrollo
+node_modules/
+*.log
+
+# Archivos APK
+*.apk
